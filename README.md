@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0018-4sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
