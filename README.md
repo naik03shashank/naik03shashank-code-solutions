@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0018-4sum) |
+| [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 ## Tree
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
