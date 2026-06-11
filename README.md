@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0509-fibonacci-number) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
