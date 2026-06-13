@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
