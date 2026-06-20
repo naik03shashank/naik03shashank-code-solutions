@@ -163,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0196-delete-duplicate-emails) |
+| [0607-sales-person](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
