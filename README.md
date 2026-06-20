@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
