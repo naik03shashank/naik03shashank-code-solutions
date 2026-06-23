@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0229-majority-element-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1732-find-the-highest-altitude](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1833-maximum-ice-cream-bars](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0036-valid-sudoku) |
+| [0229-majority-element-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Matrix
