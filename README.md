@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
