@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1840-maximum-building-height) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0289-game-of-life) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Divide and Conquer
 |  |
 | ------- |
