@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0509-fibonacci-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
