@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0006-zigzag-conversion) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1189-maximum-number-of-balloons) |
