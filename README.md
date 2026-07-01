@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0278-first-bad-version) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0289-game-of-life) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -245,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
