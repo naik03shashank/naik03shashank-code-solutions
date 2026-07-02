@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0289-game-of-life) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,8 +256,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
