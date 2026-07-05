@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0289-game-of-life) |
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1301-number-of-paths-with-max-score](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1840-maximum-building-height) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0289-game-of-life) |
+| [1301-number-of-paths-with-max-score](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
