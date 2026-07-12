@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1840-maximum-building-height) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
