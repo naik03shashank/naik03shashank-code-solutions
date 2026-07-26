@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0229-majority-element-ii) |
 | [0289-game-of-life](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1260-shift-2d-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1260-shift-2d-grid) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1288-remove-covered-intervals) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
