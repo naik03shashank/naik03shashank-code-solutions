@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0835-image-overlap](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1260-shift-2d-grid) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
