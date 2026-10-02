@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0509-fibonacci-number) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
