@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0229-majority-element-ii) |
 | [0289-game-of-life](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0645-set-mismatch) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naik03shashank/naik03shashank-code-solutions/tree/master/0628-maximum-product-of-three-numbers) |
